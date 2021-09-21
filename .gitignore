@@ -1,0 +1,16 @@
+.DS_Store
+.project
+
+/target/
+
+# Eclipse project files
+.classpath
+.settings
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+hs_err_pid*
